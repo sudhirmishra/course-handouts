@@ -6,6 +6,12 @@
 * [Object Oriented Analysis and Design](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G514_632.pdf)
 * [Pervasive Computing](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G531_302.pdf)
 * [Software Engineering and Mangement](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G562_430.pdf)
+* [Advanced Compilation Techniques](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G551_920.pdf)
+* [Advanced Computer Networks](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_G525_2004.pdf)
+* [Information Retrieval](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_F469_1857.pdf)
+* [Multimedia Computing](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_F401_1327.pdf)
+* [Advanced Algorithms and Complexity](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_G526_2005.pdf)
+* [Real Time Systems](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_F444_1883.pdf)
 
 ## Second Semester ##
 

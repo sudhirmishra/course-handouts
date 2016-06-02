@@ -4,6 +4,8 @@
 * [Data Mining](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/BITS_F311_1332.pdf)
 * [Advanced Data Mining](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G520_2107.pdf)
 * [Object Oriented Analysis and Design](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G514_632.pdf)
+* [Pervasive Computing](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G531_302.pdf)
+* [Software Engineering and Mangement](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G562_430.pdf)
 
 ## Second Semester ##
 

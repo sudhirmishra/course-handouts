@@ -27,3 +27,8 @@
 * [BITS_G540_2003 Research Practice](https://github.com/sudhirmishra/course-handouts/blob/master/II_SEM_2015_16/BITS_G540_2003.pdf)
 * [CS_G524_2006 Advanced Computer Architechture](https://github.com/sudhirmishra/course-handouts/blob/master/II_SEM_2015_16/CS_G524_2006.pdf)
 * [CS_G513_507 Network Security](https://github.com/sudhirmishra/course-handouts/blob/master/II_SEM_2015_16/CS_G513_507.pdf)
+
+
+### NOTE ###
+
+Level of course with code CS_G513 is 5  and level of course with code CS_F422 is 4. The first digit in the course code determines the level of the course. For ME students, the restriction is on taking only **two 4 level electives** throughout the 4 semesters; excluding the 4 level compulsory disciplinary courses.

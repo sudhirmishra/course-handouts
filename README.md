@@ -12,6 +12,8 @@
 * [Multimedia Computing](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_F401_1327.pdf)
 * [Advanced Algorithms and Complexity](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_G526_2005.pdf)
 * [Real Time Systems](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_F444_1883.pdf)
+* [Software Testing Methods](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/SS_G552_485.pdf)
+* [Artifical Intelligence](https://github.com/sudhirmishra/course-handouts/blob/master/I_SEM_2015_16/CS_F407_1333.pdf)
 
 ## Second Semester ##
 

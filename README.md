@@ -31,4 +31,4 @@
 
 ### NOTE ###
 
-Level of course with code CS_G513 is 5  and level of course with code CS_F422 is 4. The first digit in the course code determines the level of the course. For ME students, the restriction is on taking only **two 4 level electives** throughout the 4 semesters; excluding the 4 level compulsory disciplinary courses.
+Level of course with code CS_G513 is 5  and level of course with code CS_F422 is 4. The first digit in the course code determines the level of the course. For ME students, the restriction is on taking only **two 4 level electives** throughout the 4 semesters; including the 4 level compulsory disciplinary courses.

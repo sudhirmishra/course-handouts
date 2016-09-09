@@ -1,4 +1,4 @@
-#[Handouts Archive](http://sudhirmishra.github.io/course-handouts)#
+#[Course Handouts](http://sudhirmishra.github.io/course-handouts)#
 
 
 Installing pre-requisites and setting up the enviornment
